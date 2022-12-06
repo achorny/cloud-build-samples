@@ -16,4 +16,6 @@
 steps:
   - name: golang
     args: ['go', 'run', 'quickstart-automate/main.go']
+tags:
+  - 'test1'
 # [END cloudbuild_quickstart_automate]

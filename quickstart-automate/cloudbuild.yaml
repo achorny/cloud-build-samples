@@ -19,4 +19,5 @@ steps:
 tags:
   - 'test'
   - 'test002'
+  - 'GrowCMS'
 # [END cloudbuild_quickstart_automate]

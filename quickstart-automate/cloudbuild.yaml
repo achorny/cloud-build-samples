@@ -18,5 +18,5 @@ steps:
     args: ['go', 'run', 'quickstart-automate/main.go']
 tags:
   - 'test'
-  - 'test 001'
+  - 'test001'
 # [END cloudbuild_quickstart_automate]
